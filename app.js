@@ -32,6 +32,8 @@ App({
         }
       }
     })
+    // 初始化云api
+    wx.cloud.init()
   },
   globalData: {
     userInfo: null

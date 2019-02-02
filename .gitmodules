@@ -1,0 +1,6 @@
+[submodule "components/uuid"]
+	path = components/uuid
+	url = git@github.com:lizhekang/mina-uuid.git
+[submodule "weui-wxss"]
+	path = weui-wxss
+	url = git@github.com:Tencent/weui-wxss.git
